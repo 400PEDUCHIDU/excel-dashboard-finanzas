@@ -10,3 +10,12 @@ Este proyecto presenta un dashboard financiero interactivo desarrollado en Micro
 - Gráfica de pastel para distribución de costos (Proveedor, Consumo, Impuestos)
 - Cálculo de medidas personalizadas utilizando DAX
 - Automatización de limpieza y transformación de datos con Power Query
+
+## Herramientas utilizadas
+
+- Microsoft Excel
+- Power Query
+- Segmentadores
+- Tablas dinámicas
+- Gráficos dinámicos
+- Lenguaje DAX (medidas como TotalIngresos, TotalGastos, UtilidadNeta)
