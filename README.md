@@ -17,3 +17,4 @@ Dashboard financiero interactivo desarrollado en Excel. Permite visualizar ingre
 - Segmentadores
 - Power Query
 - Gráficos de columnas, líneas y circulares
+- Lenguaje DAX (medidas personalizadas para análisis financiero)
